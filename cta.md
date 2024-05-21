@@ -1,0 +1,2 @@
+Imagine you are a professional copywriter. I want to write a call to action, with the target action being for the person to book a free consultation on my website. Keep a friendly tone, highlight the free element and add a sense of value in this call. Make it clear that the call will be with me, and make it friendly. Make it sound like a friendly conversation and not a sales pitch. This will be placed at the bottom of a Medium article, which describes a solution to a data problem which my data consultancy solves
+
